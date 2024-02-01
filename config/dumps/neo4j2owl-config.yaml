@@ -17,6 +17,9 @@ neo_node_labelling:
   - classes:
     - PCL:0010001
     label: Cluster
+  - classes:
+      - CL:0000000
+    label: Cell
 
 curie_map:
   GITHUB: https://github.com/
