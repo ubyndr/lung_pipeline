@@ -1,1 +1,2 @@
-https://raw.githubusercontent.com/obophenotype/brain_data_standards_ontologies/master/bdso-allen.owl
+https://raw.githubusercontent.com/ubyndr/lung_pipeline/main/lung_core.owl
+http://purl.obolibrary.org/obo/cl/cl-base.owl
