@@ -18,9 +18,6 @@ neo_node_labelling:
     - PCL:0010001
     - RO:0015002 some PCL:0010001
     label: Cluster
-  - classes:
-    - owl:Class
-    label: Cell
 
 curie_map:
   GITHUB: https://github.com/
