@@ -1,3 +1,3 @@
 https://raw.githubusercontent.com/ubyndr/lung_pipeline/main/lung_core.owl
 http://purl.obolibrary.org/obo/cl/cl-base.owl
-http://purl.obolibrary.org/obo/go/go-basic.obo
+https://purl.obolibrary.org/obo/go/go-base.owl
